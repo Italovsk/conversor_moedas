@@ -1,0 +1,30 @@
+
+--- CONVERSÃO REALIZADA EM 185.00 BRL ---
+
+--- CONVERSÃO REALIZADA EM 167.00 BRL ---
+Moeda: Dólar | Valor: 31.818009
+Moeda: Euro | Valor: 26.963752
+Moeda: Bitcoin | Valor: 0.000428
+------------------------------
+
+=== CONSULTA EM: 04/02/2026 12:48:56 ===
+
+--- CONVERSÃO REALIZADA EM 895.00 BRL ---
+Moeda: Dólar | Valor: 170.521663
+Moeda: Euro | Valor: 144.506337
+Moeda: Bitcoin | Valor: 0.002294
+----------------------------------------
+
+=== CONSULTA EM: 04/02/2026 13:36:56 ===
+Conversão base: R$ 195.00
+Dólar: 37.128006
+Euro: 31.511994
+Bitcoin: 0.000502
+----------------------------------------
+
+=== CONSULTA EM: 04/02/2026 13:37:14 ===
+Conversão base: R$ 12.00
+Dólar: 2.284800
+Euro: 1.939200
+Bitcoin: 0.000031
+----------------------------------------
